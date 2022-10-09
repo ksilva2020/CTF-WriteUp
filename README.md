@@ -7,7 +7,9 @@ CTF challenge testing competitor’s skills on IDOR (Insecure Direct Object Refe
 ###Hints
 
 The main page gives us hints that we should look for a piece of information that will give away even more information that we are not supposed to see. 
-IDOR
+
+- IDOR
+
 -Cypher using to encode Hebrew alphabet
 
 -There is a link that takes us to the page where we will work on. Another hint
