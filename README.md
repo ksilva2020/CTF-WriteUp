@@ -32,9 +32,13 @@ The hint on the initial page says something about a monoalphabetic substitution 
 Knowing beforehand this was an IDOR challenge helped me focus on trying to find  a piece of information that would be exposed,or blatantly missing. The hint about the ancient cipher was helpful toward the end, although not much because the Cipher decoder picked up on what it was instantly. 
 
 ###Tools and resources: 
+
 -https://ctf.codepath.com/index.php?p=game 
+
 -https://flags.codepath.com/http/public/protected/flags/crypto_idor/ 
+
 -Burp Suite 
+
 -https://www.dcode.fr/cipher-identifier
 
 
