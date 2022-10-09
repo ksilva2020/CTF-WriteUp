@@ -9,8 +9,11 @@ CTF challenge testing competitor’s skills on IDOR (Insecure Direct Object Refe
 The main page gives us hints that we should look for a piece of information that will give away even more information that we are not supposed to see. 
 IDOR
 -Cypher using to encode Hebrew alphabet
+
 -There is a link that takes us to the page where we will work on. Another hint
+
 -Exclamation point 
+
 -The exclamation mark is one space distant from the last word. Leading us to think of investigating the element page and  to see if we can introduce something between the word and the exclamation mark (after “User” and before “!”).  
 
 ###Plan of Attack
@@ -30,8 +33,11 @@ Knowing beforehand this was an IDOR challenge helped me focus on trying to find 
 ###Tools and resources: 
 
 -https://ctf.codepath.com/index.php?p=game
+
 -https://flags.codepath.com/http/public/protected/flags/crypto_idor/
+
 -Burp Suite
+
 -https://www.dcode.fr/cipher-identifier
 
 
