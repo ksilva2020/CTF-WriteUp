@@ -12,7 +12,7 @@ The main page gives us hints that we should look for a piece of information that
 - IDOR
 
 - Cypher using to encode Hebrew alphabet
-- 
+ 
 - There is a link that takes us to the page where we will work on. Another hint
 - Exclamation point 
 
