@@ -12,10 +12,9 @@ The main page gives us hints that we should look for a piece of information that
 - IDOR
 
 - Cypher using to encode Hebrew alphabet
-
--There is a link that takes us to the page where we will work on. Another hint
-
--Exclamation point 
+- 
+- There is a link that takes us to the page where we will work on. Another hint
+- Exclamation point 
 
 -The exclamation mark is one space distant from the last word. Leading us to think of investigating the element page and  to see if we can introduce something between the word and the exclamation mark (after “User” and before “!”).  
 
